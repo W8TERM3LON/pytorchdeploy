@@ -1,4 +1,4 @@
-# fastaiserver
+# pytorchdeploy
 Deploy a localhost version of the image classification bot.
 
 Prerequisites
